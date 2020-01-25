@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.java
 Summary:	Eclipse Data Tools Platform
 Name:		eclipse-dtp
 Version:	1.6.2
